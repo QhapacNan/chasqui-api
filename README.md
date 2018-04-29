@@ -10,6 +10,7 @@
 
 1. GET  /marcadores
 2. GET  /marcadores/:id
+3. DELETE /marcadores/:id
 
 ## Alertas
 
